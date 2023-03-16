@@ -16,10 +16,10 @@ https://rahul546161.github.io/OIBSIP_Level-1_Task-2_Portfolio/
 
 ## 📷 Screenshots
 
-![Screenshot 2023-03-16 151142](https://user-images.githubusercontent.com/124900181/225577407-57808e6e-58cd-4db7-88b3-a504edc3d93f.jpg)
-![Screenshot 2023-03-16 151120](https://user-images.githubusercontent.com/124900181/225577431-0eeab5e1-adc3-4281-9965-6b20d204ceee.jpg)
 ![Screenshot 2023-03-16 150958](https://user-images.githubusercontent.com/124900181/225577517-850292e8-2798-4388-86c7-154e84ca8b66.jpg)
 ![Screenshot 2023-03-16 151041](https://user-images.githubusercontent.com/124900181/225577547-ab43518f-341b-4b22-9356-faff51bcbecd.jpg)
+![Screenshot 2023-03-16 151142](https://user-images.githubusercontent.com/124900181/225577407-57808e6e-58cd-4db7-88b3-a504edc3d93f.jpg)
+![Screenshot 2023-03-16 151120](https://user-images.githubusercontent.com/124900181/225577431-0eeab5e1-adc3-4281-9965-6b20d204ceee.jpg)
 
 
 ## 👋 Description about the Project
